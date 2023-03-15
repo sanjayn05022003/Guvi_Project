@@ -4,7 +4,7 @@ A web application for User Signup, Login and Profile Setup developed using:
 
              WEB CLIENT LAYER
 
-                 1. HTML
+                 1. HTML (entry point: "register.html")
                  2. CSS
                  3. Bootstrap
 
