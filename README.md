@@ -48,6 +48,15 @@ A web application for User Signup, Login and Profile Setup developed using:
 
     1. Non-Relational database (No SQL)
     2. Implemented to store the details of the user profiles like contact, age etc. .
+    
+*Glimpses*
+
+      
+   ![Guvi_Demo](https://user-images.githubusercontent.com/94184560/225542112-a02f1605-6f08-4ee3-bfd3-f25e0c55e0a6.jpg)
+
+
+    
+
 
 
     
