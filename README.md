@@ -48,10 +48,7 @@ A web application for User Signup, Login and Profile Setup developed using:
 
     1. Non-Relational database (No SQL)
     2. Implemented to store the details of the user profiles like contact, age etc. .
-    
-    
-    
-    ![IMG_20230316_122201](https://user-images.githubusercontent.com/94184560/225539965-c2c45c09-0800-4a85-bc1d-a702c44f8d52.jpg)
+
 
     
           
